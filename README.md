@@ -1,4 +1,5 @@
 Simple Diffusion Transformer for Text-to-Image Generation
+
 Features
 From-Scratch Training: Simple embeddings for text and images, concatenated for cross-modal conditioning.
 
